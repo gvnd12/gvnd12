@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Python full-stack developer trainee at Quest Innovative Solutions Pvt Ltd
+Python full-stack developer trainee at Quest Innovative Solutions Pvt Ltd
 
 
 ## 🌐 Socials:
