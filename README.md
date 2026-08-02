@@ -1,9 +1,96 @@
-# GOVIND S S
-Software Engineer skilled in Django, Flask, and FastAPI, with experience in building AI chatbots and web applications. Proficient in LangChain, vector databases, and AI-driven development.
+# Hi, I'm Govind
+GenAI Engineer focused on building production AI systems with **FastAPI, Retrieval-Augmented Generation (RAG), LangChain, and Vector Databases**.
 
+I enjoy designing scalable backend systems, optimizing AI retrieval pipelines, and building applications powered by LLMs.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gvnd12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-s-s) 
+---
 
-# 💻 Tech Stack:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 🚀 About Me
+
+- 💼 GenAI Engineer at PIT Solutions
+- 🤖 Building AI applications using FastAPI, OpenAI, LangChain and more
+- 🔍 Interested in RAG, Vector Search, Semantic Search, AI Infrastructure, and Backend Engineering
+- 🌱 Currently exploring advanced retrieval techniques, agentic workflows, and AI system architecture
+- 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+---
+
+## 🛠 Tech Stack
+
+### AI & LLM
+
+- OpenAI API
+- Azure AI
+- LangChain
+- LangSmith
+- Prompt Engineering
+- RAG Pipelines
+
+### Backend
+
+- FastAPI
+- Django
+- Flask
+- Python
+- REST APIs
+- WebSockets
+- Celery
+
+### Databases
+
+- MongoDB
+- MySQL
+- SQLite
+- Neo4j
+- Redis
+- Qdrant
+- MinIO
+
+### AI Infrastructure
+
+- Vector Search
+- Hybrid Search
+- Embeddings
+- Semantic Caching
+- Binary Quantization
+- Redis Caching
+
+### Tools
+
+- Git
+- Docker
+- Linux
+
+---
+
+# Featured Project
+
+## 🚀 Ping (FastAPI)
+
+A social media backend built using modern backend architecture.
+
+### Features
+
+- JWT Authentication
+- User Management
+- Posts
+- Likes & Comments
+- Follow System
+- Media Upload
+- Admin APIs
+- MongoDB
+- Neo4j Social Graph
+- MinIO Object Storage
+
+### Tech Stack
+
+FastAPI • MongoDB • Neo4j • MinIO • JWT
+
+Repository:
+👉 https://github.com/gvnd12/Ping-FastAPI
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/govind-s-s
+- **Email:** govindshaju@gmail.com
