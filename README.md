@@ -7,7 +7,7 @@ I enjoy designing scalable backend systems, optimizing AI retrieval pipelines, a
 
 ## 🚀 About Me
 
-- 💼 GenAI Engineer at PIT Solutions
+- 💼 GenAI Engineer
 - 🤖 Building AI applications using FastAPI, OpenAI, LangChain and more
 - 🔍 Interested in RAG, Vector Search, Semantic Search, AI Infrastructure, and Backend Engineering
 - 🌱 Currently exploring advanced retrieval techniques, agentic workflows, and AI system architecture
