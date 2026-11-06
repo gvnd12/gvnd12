@@ -22,6 +22,7 @@ I enjoy designing scalable backend systems, optimizing AI retrieval pipelines, a
 - Azure AI
 - LangChain
 - LangSmith
+- LangGraph
 - Prompt Engineering
 - RAG Pipelines
 
@@ -51,7 +52,7 @@ I enjoy designing scalable backend systems, optimizing AI retrieval pipelines, a
 - Hybrid Search
 - Embeddings
 - Semantic Caching
-- Binary Quantization
+- Vector Quantization
 - Redis Caching
 
 ### Tools
